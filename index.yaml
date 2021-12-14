@@ -3,7 +3,7 @@ entries:
   demo-model-chart:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2021-12-01T17:07:36.21495989+01:00"
+    created: "2021-12-14T19:38:53.311663955+01:00"
     description: A Helm chart for Kubernetes
     digest: c2355ecb0111332b30f024fcea70e826bafdc246cd66fafad543762c91a64fee
     name: demo-model-chart
@@ -13,7 +13,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-12-01T17:07:36.214228826+01:00"
+    created: "2021-12-14T19:38:53.306907097+01:00"
     description: A Helm chart for Kubernetes
     digest: 16b09a01546e9abf4f8682762cc781f8901d06ca488f5bc847aaca1aa0a7549f
     name: demo-model-chart
@@ -21,4 +21,15 @@ entries:
     urls:
     - demo-model-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2021-12-01T17:07:36.213293921+01:00"
+  demo-multiclust-chart:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-12-14T19:38:53.314755361+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 205f56c0dd7803ba1d41640d1b984c00d8667b79a25233c60dc8d77e03db3d17
+    name: demo-multiclust-chart
+    type: application
+    urls:
+    - demo-multiclust-chart-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-12-14T19:38:53.295485659+01:00"
